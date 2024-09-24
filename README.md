@@ -9,6 +9,7 @@ Title | Language | Topic | Difficulty | Description
 [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) | [PHP](LeetCode/find%20_lucky%20_integer_in_an_array/find%20_lucky%20_integer_in_an_array.php) | Array, Hash Table, Counting | Easy | ---
 [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/) | [PHP](LeetCode/create_target_array_in_the_given_order/create_target_array_in_the_given_order.php) | Array, Simulation | Easy | ---
 [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/description/) | [PHP](LeetCode/intersection_of%20_multiple_arrays/intersection_of%20_multiple_arrays.php) | Array, Hash Table, Sorting, Counting | Easy | ---
+[Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/) | [PHP](LeetCode/average_value_of_even_numbers_that_are_divisible_by_three/average_value_of_even_numbers_that_are_divisible_by_three.php) | Array, Math | Easy | ---
 
 ### [Quera](https://quera.org/)
 
