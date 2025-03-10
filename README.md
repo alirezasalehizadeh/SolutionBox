@@ -11,6 +11,7 @@ Title | Language | Topic | Difficulty | Description
 [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/description/) | [PHP](LeetCode/intersection_of%20_multiple_arrays/intersection_of%20_multiple_arrays.php) | Array, Hash Table, Sorting, Counting | Easy | ---
 [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/) | [PHP](LeetCode/average_value_of_even_numbers_that_are_divisible_by_three/average_value_of_even_numbers_that_are_divisible_by_three.php) | Array, Math | Easy | ---
 [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/) | [PHP](LeetCode/count_the_number_of_vowel_strings_in_range/count_the_number_of_vowel_strings_in_range.php) | Array, String, Counting | Easy | ---
+[Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [PHP](LeetCode/is_subsequence/is_subsequence.php) | Two Pointers, String, Dynamic Programming | Easy | ---
 
 ### [Quera](https://quera.org/)
 
